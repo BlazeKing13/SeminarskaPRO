@@ -1,0 +1,7 @@
+D:\Visual Code Studio projects\PustolovščinaCMD\PustolovščinaCMD\obj\Debug\PustolovščinaCMD.csproj.AssemblyReference.cache
+D:\Visual Code Studio projects\PustolovščinaCMD\PustolovščinaCMD\obj\Debug\PustolovščinaCMD.csproj.CoreCompileInputs.cache
+D:\Visual Code Studio projects\PustolovščinaCMD\PustolovščinaCMD\bin\Debug\PustolovščinaCMD.exe.config
+D:\Visual Code Studio projects\PustolovščinaCMD\PustolovščinaCMD\bin\Debug\PustolovščinaCMD.exe
+D:\Visual Code Studio projects\PustolovščinaCMD\PustolovščinaCMD\bin\Debug\PustolovščinaCMD.pdb
+D:\Visual Code Studio projects\PustolovščinaCMD\PustolovščinaCMD\obj\Debug\PustolovščinaCMD.exe
+D:\Visual Code Studio projects\PustolovščinaCMD\PustolovščinaCMD\obj\Debug\PustolovščinaCMD.pdb
